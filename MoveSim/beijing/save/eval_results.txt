@@ -1,0 +1,6 @@
+range_scale (sqrt(width*height), m): 21769.87
+
+[Next location prediction] (teacher-forced, hours 1..23)
+  MLE-pretrained generator        mean_error_m: 390.36  ratio_to_range: 0.0179  top1_acc: 0.9214  disp/mean_disp: 1.6513  disp/max_disp: 0.0556
+  adversarially-trained generator mean_error_m: 399.30  ratio_to_range: 0.0183  top1_acc: 0.9194  disp/mean_disp: 1.7712  disp/max_disp: 0.0583
+  repeat-last-location baseline   mean_error_m: 243.93  ratio_to_range: 0.0112  top1_acc: 0.9450  disp/mean_disp: 1.0000  disp/max_disp: 0.0347

@@ -1,0 +1,641 @@
+app_id,app_cate_id,app_cate_name,app_name
+1,1,Instant Messaging,飞聊
+2,1,Instant Messaging,和飞信
+3,1,Instant Messaging,MSN
+4,1,Instant Messaging,QQ
+5,1,Instant Messaging,旺信
+6,1,Instant Messaging,微信
+7,1,Instant Messaging,百度Hi
+8,1,Instant Messaging,MOMO陌陌
+9,1,Instant Messaging,啪啪音乐圈
+10,1,Instant Messaging,点点虫
+11,1,Instant Messaging,连我
+12,1,Instant Messaging,whatsapp
+13,1,Instant Messaging,钉钉
+14,1,Instant Messaging,企业微信
+15,1,Instant Messaging,
+16,1,Instant Messaging,微话
+17,1,Instant Messaging,GoogleTalk
+18,1,Instant Messaging,网易泡泡
+19,1,Instant Messaging,QQTM
+20,1,Instant Messaging,个信
+21,1,Instant Messaging,讯飞语音云
+22,1,Instant Messaging,e网通
+23,1,Instant Messaging,语玩-语音交友
+24,1,Instant Messaging,华为畅连通话
+25,1,Instant Messaging,脉脉
+26,1,Instant Messaging,千牛
+27,1,Instant Messaging,环信
+28,1,Instant Messaging,
+29,1,Instant Messaging,soul
+30,1,Instant Messaging,音遇
+31,2,Reading,咪咕阅读
+32,2,Reading,起点读书
+33,2,Reading,QQ阅读
+34,2,Reading,爱读掌阅
+35,2,Reading,掌阅iReader
+36,2,Reading,书旗小说
+37,2,Reading,塔读文学
+38,2,Reading,多看阅读
+39,2,Reading,百度阅读
+40,2,Reading,爱看
+41,2,Reading,
+42,2,Reading,
+43,2,Reading,
+44,2,Reading,
+45,2,Reading,
+46,2,Reading,
+47,2,Reading,连尚读书
+48,2,Reading,爱奇艺阅读
+49,2,Reading,中文书城
+50,2,Reading,掌阅官网
+51,2,Reading,书包网
+52,2,Reading,零点书屋
+53,2,Reading,恋上你看书
+54,2,Reading,飞卢网
+55,2,Reading,番茄小说
+56,3,Microblog,新浪微博
+57,3,Microblog,珍爱网
+58,3,Microblog,QQ空间
+59,3,Microblog,世纪佳缘
+60,3,Microblog,豆瓣
+61,3,Microblog,百度贴吧
+62,3,Microblog,Twitter
+63,3,Microblog,
+64,3,Microblog,QQ相册
+65,3,Microblog,TT语音
+66,3,Microblog,不就
+67,4,Navigation,谷歌地图
+68,4,Navigation,百度地图
+69,4,Navigation,腾讯地图
+70,4,Navigation,高德导航
+71,4,Navigation,安驾电子狗
+72,4,Navigation,高德地图
+73,4,Navigation,iPhone地图
+74,4,Navigation,百度导航
+75,4,Navigation,apple-maps
+76,5,Video,咪咕视频
+77,5,Video,优酷视频
+78,5,Video,土豆视频
+79,5,Video,酷6视频
+80,5,Video,腾讯视频
+81,5,Video,搜狐视频
+82,5,Video,新浪视频
+83,5,Video,网易视频
+84,5,Video,乐视视频
+85,5,Video,56视频
+86,5,Video,芒果TV
+87,5,Video,爱奇艺
+88,5,Video,央视影音
+89,5,Video,YouTube视频
+90,5,Video,皮皮影视
+91,5,Video,六间房直播
+92,5,Video,百度视频
+93,5,Video,微视
+94,5,Video,网易公开课
+95,5,Video,快手
+96,5,Video,华数TV
+97,5,Video,影音先锋
+98,5,Video,哔哩哔哩
+99,5,Video,秒拍
+100,5,Video,抖音短视频
+101,5,Video,火山小视频
+102,5,Video,好看视频
+103,5,Video,
+104,5,Video,
+105,5,Video,
+106,5,Video,快播
+107,5,Video,央视
+108,5,Video,糖豆
+109,5,Video,清风网络
+110,5,Video,CC直播
+111,5,Video,哔哩哔哩直播
+112,5,Video,腾讯视频直播
+113,5,Video,Googlevideo
+114,5,Video,
+115,5,Video,Google_youtube
+116,5,Video,猫眼电影视频
+117,5,Video,星域CDN
+118,5,Video,酷狗直播
+119,5,Video,爱奇艺泡泡
+120,5,Video,淘宝直播
+121,5,Video,央视频
+122,5,Video,山东网络台（齐鲁网）
+123,5,Video,南瓜电影
+124,5,Video,伊对
+125,5,Video,
+126,5,Video,易视界
+127,5,Video,
+128,6,Music,咪咕音乐
+129,6,Music,QQ音乐
+130,6,Music,酷我音乐
+131,6,Music,DJ音乐盒
+132,6,Music,酷狗音乐
+133,6,Music,懒人听书
+134,6,Music,唱吧
+135,6,Music,网易云音乐
+136,6,Music,蜻蜓FM收音机广播电台
+137,6,Music,喜马拉雅听
+138,6,Music,荔枝
+139,6,Music,考拉FM电台
+140,6,Music,全民K歌
+141,6,Music,
+142,6,Music,
+143,6,Music,音频文件识别
+144,6,Music,APPLE music
+145,6,Music,音乐随身听
+146,6,Music,小米音乐
+147,6,Music,繁星音乐
+148,6,Music,儿歌多多
+149,6,Music,儿歌点点
+150,6,Music,浮浮雷达
+151,6,Music,酷狗唱唱
+152,7,App Store,MM商场
+153,7,App Store,AppStore
+154,7,App Store,google play store
+155,7,App Store,应用宝
+156,7,App Store,360手机助手
+157,7,App Store,三星应用商店
+158,7,App Store,小米应用商店
+159,7,App Store,oppo应用商店
+160,7,App Store,华为应用市场
+161,7,App Store,PP助手
+162,7,App Store,VIVO应用商店
+163,7,App Store,天翼云
+164,7,App Store,baibao
+165,7,App Store,手机文件传输
+166,7,App Store,apple推送服务
+167,7,App Store,百度开放云平台
+168,7,App Store,qq游戏下载
+169,7,App Store,七牛云存储
+170,7,App Store,腾讯应用中心
+171,7,App Store,酷云
+172,7,App Store,vivo智能手机官方网站
+173,7,App Store,分期乐
+174,7,App Store,淘票票
+175,7,App Store,乐商店
+176,7,App Store,UC应用商城
+177,8,Games,咪咕游戏
+178,8,Games,三国杀
+179,8,Games,魔兽世界
+180,8,Games,梦幻西游
+181,8,Games,穿越火线
+182,8,Games,QQ飞车
+183,8,Games,4399小游戏
+184,8,Games,完美世界
+185,8,Games,QQ华夏
+186,8,Games,世界OL
+187,8,Games,节奏大师
+188,8,Games,全民突击
+189,8,Games,开心消消乐
+190,8,Games,神庙逃亡
+191,8,Games,QQ游戏
+192,8,Games,葫芦侠
+193,8,Games,178游戏网
+194,8,Games,九游
+195,8,Games,王者荣耀
+196,8,Games,TapTap
+197,8,Games,悟饭游戏厅
+198,8,Games,恋与制作人
+199,8,Games,迷你世界
+200,8,Games,最强NBA
+201,8,Games,
+202,8,Games,
+203,8,Games,
+204,8,Games,手机QQ游戏
+205,8,Games,37游戏
+206,8,Games,球球大作战
+207,8,Games,比心
+208,8,Games,腾讯游戏平台
+209,8,Games,哔哩游戏
+210,8,Games,游迅网
+211,8,Games,鑫途斗地主
+212,8,Games,微乐游戏
+213,8,Games,Steam Mobile
+214,8,Games,疯狂动物城：筑梦日记
+215,8,Games,龙珠最强之战
+216,8,Games,OPPO小游戏
+217,8,Games,红手指
+218,8,Games,欢喜斗地主
+219,8,Games,逃跑吧少年
+220,8,Games,忍着必须死3
+221,8,Games,少年三国志
+222,8,Games,乱世王者
+223,8,Games,碧蓝航线
+224,8,Games,会玩
+225,8,Games,军棋
+226,8,Games,菜鸡
+227,8,Games,腾讯游戏管家
+228,8,Games,腾讯游戏助手
+229,8,Games,倩女幽魂
+230,8,Games,乐元素
+231,8,Games,华宝证券
+232,8,Games,番茄游戏
+233,8,Games,捕鱼神手
+234,8,Games,崩坏3
+235,8,Games,狼人杀
+236,8,Games,和平精英
+237,8,Games,楚留香
+238,8,Games,wegame
+239,8,Games,钢琴块（别踩白板儿）
+240,8,Games,
+241,8,Games,贪吃蛇大作战
+242,9,Payment,和包支付
+243,9,Payment,支付宝
+244,9,Payment,招商银行
+245,9,Payment,财付通
+246,9,Payment,中国建设银行
+247,9,Payment,中国工商银行
+248,9,Payment,农行掌上银行
+249,9,Payment,中信银行手机银行
+250,9,Payment,兴业银行手机银行
+251,9,Payment,平安口袋银行
+252,9,Payment,交通银行
+253,9,Payment,邮储手机银行
+254,9,Payment,浦发手机银行
+255,9,Payment,广发银行手机银行
+256,9,Payment,光大银行手机银行
+257,9,Payment,北京银行
+258,9,Payment,民生银行手机银行
+259,9,Payment,江苏银行
+260,9,Payment,翼支付
+261,9,Payment,
+262,9,Payment,百度钱包
+263,9,Payment,微信支付
+264,9,Payment,买单吧
+265,9,Payment,钱宝
+266,9,Payment,PayPal
+267,9,Payment,Applepay
+268,9,Payment,光大银行信用卡阳光惠生活
+269,9,Payment,美团钱包
+270,10,Anime & Comics,漫画岛
+271,10,Anime & Comics,快看漫画
+272,10,Anime & Comics,看漫画
+273,11,Email,139邮箱
+274,11,Email,网易邮箱
+275,11,Email,QQ邮箱
+276,11,Email,FOXMAIL邮箱
+277,12,P2P Services,迅雷
+278,12,P2P Services,BitTorrent
+279,12,P2P Services,爱奇艺极速版(PPS)
+280,12,P2P Services,暴风影音
+281,12,P2P Services,QQ旋风
+282,12,P2P Services,风行
+283,12,P2P Services,SoulSeek
+284,12,P2P Services,中国移动手机动漫
+285,12,P2P Services,有伴儿
+286,12,P2P Services,萤石云视频
+287,12,P2P Services,电视猫
+288,12,P2P Services,百视通影视
+289,12,P2P Services,UC视频
+290,12,P2P Services,CIBN手机电视
+291,13,VoIP,Skype
+292,13,VoIP,viber
+293,13,VoIP,手机YY
+294,13,VoIP,Grid-talk
+295,13,VoIP,9158视频聊天
+296,13,VoIP,个推
+297,14,MMS,彩信
+298,15,Browsing & Download,冲浪导航
+299,15,Browsing & Download,百度
+300,15,Browsing & Download,大众点评
+301,15,Browsing & Download,腾讯网
+302,15,Browsing & Download,UC网站访问
+303,15,Browsing & Download,新浪网
+304,15,Browsing & Download,搜狐网
+305,15,Browsing & Download,网易网
+306,15,Browsing & Download,凤凰网
+307,15,Browsing & Download,百度搜索
+308,15,Browsing & Download,58同城
+309,15,Browsing & Download,新浪新闻
+310,15,Browsing & Download,搜房网
+311,15,Browsing & Download,安居客
+312,15,Browsing & Download,搜狐新闻
+313,15,Browsing & Download,腾讯新闻
+314,15,Browsing & Download,网易新闻
+315,15,Browsing & Download,宝宝树孕育
+316,15,Browsing & Download,澎湃新闻
+317,15,Browsing & Download,前程无忧51Job
+318,15,Browsing & Download,智联招聘网
+319,15,Browsing & Download,12530WAP门户
+320,15,Browsing & Download,谷歌搜索
+321,15,Browsing & Download,搜狗搜索
+322,15,Browsing & Download,同程网
+323,15,Browsing & Download,汽车之家
+324,15,Browsing & Download,易车
+325,15,Browsing & Download,大麦
+326,15,Browsing & Download,知乎
+327,15,Browsing & Download,铃声多多
+328,15,Browsing & Download,今日头条
+329,15,Browsing & Download,虎扑
+330,15,Browsing & Download,直播吧
+331,15,Browsing & Download,美柚月经期助手
+332,15,Browsing & Download,丁丁优惠
+333,15,Browsing & Download,必胜客Pizza hut
+334,15,Browsing & Download,词典翻译金山词霸
+335,15,Browsing & Download,米柚
+336,15,Browsing & Download,百度文库
+337,15,Browsing & Download,饿了么
+338,15,Browsing & Download,雪球
+339,15,Browsing & Download,华住会
+340,15,Browsing & Download,央视新闻
+341,15,Browsing & Download,百度百科
+342,15,Browsing & Download,酷音铃声
+343,15,Browsing & Download,大姨吗
+344,15,Browsing & Download,360新闻
+345,15,Browsing & Download,美拍
+346,15,Browsing & Download,酷狗铃声
+347,15,Browsing & Download,华为商城
+348,15,Browsing & Download,流利说·英语
+349,15,Browsing & Download,苹果固件更新
+350,15,Browsing & Download,腾讯软件中心
+351,15,Browsing & Download,神马搜索
+352,15,Browsing & Download,BLUED
+353,15,Browsing & Download,百词斩
+354,15,Browsing & Download,360搜索
+355,15,Browsing & Download,微店
+356,15,Browsing & Download,腾讯课堂
+357,15,Browsing & Download,作业帮
+358,15,Browsing & Download,猿题库
+359,15,Browsing & Download,美团外卖
+360,15,Browsing & Download,UC浏览器
+361,15,Browsing & Download,QQ浏览器
+362,15,Browsing & Download,2345网址导航
+363,15,Browsing & Download,Instagram
+364,15,Browsing & Download,Facebook
+365,15,Browsing & Download,什么值得买
+366,15,Browsing & Download,煎蛋
+367,15,Browsing & Download,英雄联盟LOL掌游宝
+368,15,Browsing & Download,必应搜索
+369,15,Browsing & Download,一点资讯
+370,15,Browsing & Download,太平洋电脑网
+371,15,Browsing & Download,交管12123
+372,15,Browsing & Download,平安好车主
+373,15,Browsing & Download,懂车帝
+374,15,Browsing & Download,链家
+375,15,Browsing & Download,房天下
+376,15,Browsing & Download,自如
+377,15,Browsing & Download,天天快报
+378,15,Browsing & Download,趣头条
+379,15,Browsing & Download,平安好医生
+380,15,Browsing & Download,39健康
+381,15,Browsing & Download,健康之路
+382,15,Browsing & Download,UC头条
+383,15,Browsing & Download,学习强国
+384,15,Browsing & Download,壁纸
+385,15,Browsing & Download,贝壳找房
+386,15,Browsing & Download,果壳网
+387,15,Browsing & Download,百度图片
+388,15,Browsing & Download,省钱快报
+389,15,Browsing & Download,360浏览器
+390,15,Browsing & Download,上海移动和你
+391,15,Browsing & Download,Chrome
+392,15,Browsing & Download,环球网
+393,15,Browsing & Download,猎聘
+394,15,Browsing & Download,球探网
+395,15,Browsing & Download,手机广告平台
+396,15,Browsing & Download,阿里巴巴图片服务器
+397,15,Browsing & Download,步步高音乐手机官网
+398,15,Browsing & Download,oppo官网
+399,15,Browsing & Download,UC早知道
+400,15,Browsing & Download,球迷报
+401,15,Browsing & Download,华为云
+402,15,Browsing & Download,小米科技
+403,15,Browsing & Download,海度
+404,15,Browsing & Download,搜狗网
+405,15,Browsing & Download,猎豹网络
+406,15,Browsing & Download,流量通网
+407,15,Browsing & Download,金立
+408,15,Browsing & Download,爱思助手
+409,15,Browsing & Download,Wikipedia
+410,15,Browsing & Download,Live
+411,15,Browsing & Download,ColorOS网站
+412,15,Browsing & Download,YOKA时尚网
+413,15,Browsing & Download,走秀网
+414,15,Browsing & Download,Houzz
+415,15,Browsing & Download,烘焙烤箱食谱
+416,15,Browsing & Download,空气检测站
+417,15,Browsing & Download,每日瑜伽
+418,15,Browsing & Download,顺丰速运通
+419,15,Browsing & Download,宜家家居
+420,15,Browsing & Download,米途订酒店
+421,15,Browsing & Download,AccuWeather
+422,15,Browsing & Download,微软网站
+423,15,Browsing & Download,中国移动通信统一门户网站
+424,15,Browsing & Download,九江银行
+425,15,Browsing & Download,云OS业务网站
+426,15,Browsing & Download,海信社区
+427,15,Browsing & Download,izatcloud
+428,15,Browsing & Download,易观智库
+429,15,Browsing & Download,网宿科技
+430,15,Browsing & Download,乐变
+431,15,Browsing & Download,mob移动开发者服务平台
+432,15,Browsing & Download,奥多比公司网站
+433,15,Browsing & Download,139导航网
+434,15,Browsing & Download,聚胜万合广告
+435,15,Browsing & Download,木仓手机软件
+436,15,Browsing & Download,奇酷网
+437,15,Browsing & Download,北京小川
+438,15,Browsing & Download,shuzilm
+439,15,Browsing & Download,江西干部网上学院
+440,15,Browsing & Download,8686c
+441,15,Browsing & Download,xiaoniangao
+442,15,Browsing & Download,江西农村信用社
+443,15,Browsing & Download,365游
+444,15,Browsing & Download,友度
+445,15,Browsing & Download,阿里巴巴(1688)
+446,15,Browsing & Download,酷安网
+447,15,Browsing & Download,广联达门户
+448,15,Browsing & Download,南昌银行
+449,15,Browsing & Download,读书郎电子科技
+450,15,Browsing & Download,奇虎科技
+451,15,Browsing & Download,玩吧
+452,15,Browsing & Download,IE浏览器
+453,15,Browsing & Download,云加速
+454,15,Browsing & Download,微赞
+455,15,Browsing & Download,掌门科技
+456,15,Browsing & Download,卓越亚马逊
+457,15,Browsing & Download,魅族科技
+458,15,Browsing & Download,掌阅公司网站
+459,15,Browsing & Download,美图网
+460,15,Browsing & Download,基调网络
+461,15,Browsing & Download,图吧
+462,15,Browsing & Download,有道
+463,15,Browsing & Download,凤凰汽车
+464,15,Browsing & Download,地宝网
+465,15,Browsing & Download,中国金属
+466,15,Browsing & Download,新浪
+467,15,Browsing & Download,微米浏览器
+468,15,Browsing & Download,网易127
+469,15,Browsing & Download,天眼查
+470,15,Browsing & Download,搜狐
+471,15,Browsing & Download,欧朋留览器
+472,15,Browsing & Download,配音秀
+473,15,Browsing & Download,苹果官网
+474,15,Browsing & Download,联想官网
+475,15,Browsing & Download,今日十大新闻
+476,15,Browsing & Download,佛滔算命
+477,15,Browsing & Download,毒霸网址大全
+478,15,Browsing & Download,东方头条
+479,15,Browsing & Download,北青网
+480,15,Browsing & Download,皮皮虾传奇
+481,15,Browsing & Download,移动平台
+482,15,Browsing & Download,
+483,15,Browsing & Download,
+484,15,Browsing & Download,
+485,16,Finance,同花顺
+486,16,Finance,大智慧
+487,16,Finance,益盟操盘手
+488,16,Finance,文华财经
+489,16,Finance,东方财富
+490,16,Finance,金太阳
+491,16,Finance,掌中投
+492,16,Finance,智远一户通
+493,16,Finance,平安证券
+494,16,Finance,e海通财
+495,16,Finance,华安徽赢
+496,16,Finance,工银融e联
+497,16,Finance,掌上生活
+498,16,Finance,平安金管家
+499,16,Finance,
+500,16,Finance,
+501,16,Finance,
+502,16,Finance,
+503,16,Finance,
+504,16,Finance,
+505,16,Finance,
+506,16,Finance,华泰证券
+507,16,Finance,淘宝彩票
+508,16,Finance,米赚
+509,16,Finance,股吧
+510,16,Finance,涨乐
+511,16,Finance,知牛财经
+512,16,Finance,中银国际证券
+513,16,Finance,中信证券
+514,16,Finance,中泰证券
+515,16,Finance,中国邮政储蓄银行
+516,16,Finance,中国人保
+517,16,Finance,中国平安
+518,16,Finance,银河证券
+519,16,Finance,兴业证券
+520,16,Finance,小米金融
+521,16,Finance,省呗
+522,16,Finance,洋钱罐借款
+523,16,Finance,民生信用卡全民生活
+524,16,Finance,马上金融
+525,16,Finance,拍拍贷
+526,16,Finance,浦发银行信用卡浦大喜奔
+527,16,Finance,钱先生
+528,16,Finance,六合彩开奖
+529,16,Finance,玖富钱包
+530,16,Finance,通刷
+531,16,Finance,发现精彩
+532,16,Finance,阳光惠生活
+533,16,Finance,华彩生活
+534,16,Finance,度小满金融
+535,16,Finance,马上分期
+536,16,Finance,
+537,16,Finance,
+538,16,Finance,
+539,17,Security & Antivirus,360安全卫士
+540,17,Security & Antivirus,QQ安全中心
+541,17,Security & Antivirus,360手机卫士
+542,17,Security & Antivirus,腾讯手机管家
+543,17,Security & Antivirus,金山毒霸
+544,17,Security & Antivirus,360清理大师
+545,17,Security & Antivirus,猎豹安全大师
+546,17,Security & Antivirus,夸克
+547,17,Security & Antivirus,迈克菲
+548,18,Shopping,手机淘宝
+549,18,Shopping,京东
+550,18,Shopping,亚马逊购物
+551,18,Shopping,1号店
+552,18,Shopping,当当
+553,18,Shopping,美团
+554,18,Shopping,苏宁易购
+555,18,Shopping,手机天猫
+556,18,Shopping,唯品会
+557,18,Shopping,小米商城
+558,18,Shopping,小红书
+559,18,Shopping,拼多多
+560,18,Shopping,闲鱼
+561,18,Shopping,转转二手交易网
+562,18,Shopping,大润发优鲜
+563,18,Shopping,
+564,18,Shopping,萌推
+565,18,Shopping,婴儿购物
+566,18,Shopping,云集微店
+567,18,Shopping,有赞
+568,18,Shopping,移动商街
+569,18,Shopping,一团网
+570,18,Shopping,一淘
+571,18,Shopping,小天才 电话手表
+572,18,Shopping,鲜花礼品网
+573,18,Shopping,西柚网
+574,18,Shopping,网易考拉
+575,18,Shopping,识货
+576,18,Shopping,Nike SNKRS
+577,18,Shopping,叮咚买菜
+578,18,Shopping,必要
+579,18,Shopping,毒
+580,18,Shopping,联发科官网
+581,18,Shopping,名鞋库网
+582,18,Shopping,拍拍网
+583,18,Shopping,闪送
+584,18,Shopping,卷瓜网
+585,18,Shopping,简单网
+586,18,Shopping,东方博雅
+587,18,Shopping,爱回收
+588,18,Shopping,ADIDAS
+589,18,Shopping,粉象生活
+590,18,Shopping,蜜源
+591,18,Shopping,弹个车
+592,18,Shopping,百果园
+593,18,Shopping,小米有品
+594,18,Shopping,全球购骑士特权
+595,18,Shopping,
+596,19,Travel & Transportation,携程旅行
+597,19,Travel & Transportation,去哪儿旅行
+598,19,Travel & Transportation,艺龙旅行
+599,19,Travel & Transportation,铁路12306
+600,19,Travel & Transportation,滴滴出行
+601,19,Travel & Transportation,同程旅游
+602,19,Travel & Transportation,摩拜单车
+603,19,Travel & Transportation,车来了
+604,19,Travel & Transportation,嘀嗒拼车
+605,19,Travel & Transportation,哈罗单车
+606,19,Travel & Transportation,
+607,19,Travel & Transportation,中车网
+608,19,Travel & Transportation,途家民宿
+609,19,Travel & Transportation,首汽约车
+610,19,Travel & Transportation,乐途旅游网
+611,19,Travel & Transportation,交通安全服务管理平台
+612,19,Travel & Transportation,瓜子二手车直卖网
+613,19,Travel & Transportation,大众汽车
+614,19,Travel & Transportation,车主之家
+615,19,Travel & Transportation,e代驾
+616,19,Travel & Transportation,哈啰出行
+617,19,Travel & Transportation,途家民宿-全球酒店公寓和短租预订平台
+618,20,Cloud Storage,百度网盘
+619,20,Cloud Storage,腾讯微云
+620,20,Cloud Storage,金山快盘
+621,20,Cloud Storage,有道云笔记
+622,20,Cloud Storage,金山云
+623,20,Cloud Storage,小米云
+624,20,Cloud Storage,网易云信
+625,20,Cloud Storage,网易网盘
+626,20,Cloud Storage,腾讯云
+627,20,Cloud Storage,七牛云
+628,20,Cloud Storage,融云
+629,20,Cloud Storage,iCloud云服务
+630,22,General Data,百度公共流量
+631,22,General Data,腾讯公共流量
+632,22,General Data,阿里公共流量
+633,22,General Data,360公共流量
+634,23,Live Streaming,斗鱼直播
+635,23,Live Streaming,虎牙直播
+636,23,Live Streaming,西瓜视频
+637,23,Live Streaming,花椒直播
+638,23,Live Streaming,腾讯体育
+639,23,Live Streaming,腾讯NOW直播
+640,23,Live Streaming,YY

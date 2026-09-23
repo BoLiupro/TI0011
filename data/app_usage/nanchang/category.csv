@@ -1,0 +1,25 @@
+app_type_id,en,cn
+1,Instant Messaging,即时通信
+2,Reading,阅读
+3,Microblog,微博
+4,Navigation,导航
+5,Video,视频
+6,Music,音乐
+7,App Store,应用商店
+8,Games,游戏
+9,Payment,支付
+10,Anime & Comics,动漫
+11,Email,邮箱
+12,P2P Services,P2P业务
+13,VoIP,VoIP业务
+14,MMS,彩信
+15,Browsing & Download,浏览下载
+16,Finance,财经
+17,Security & Antivirus,安全杀毒
+18,Shopping,购物
+19,Travel & Transportation,出行旅游
+20,Cloud Storage,网盘云服务
+22,General Data,公共流量
+23,Live Streaming,视频直播
+68,Unidentified Traffic,未识别流量
+69,Uncategorized,未归类业务

@@ -1,0 +1,8 @@
+range_scale (sqrt(width*height), m): 76605.20
+
+[Next location prediction] (teacher-forced, hours 1..23)
+  MLE-pretrained generator      mean_error_m: 5287.83  ratio_to_range: 0.0690  top1_acc: 0.7158
+  adversarially-trained generator mean_error_m: 5324.94  ratio_to_range: 0.0695  top1_acc: 0.7106
+
+[Mobility generation] (conditioned on hour-0, K=20 samples, hours 1..23, adversarially-trained generator)
+  model  mean_error_m: 12452.85  ratio_to_range: 0.1626
